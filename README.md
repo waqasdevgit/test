@@ -27,6 +27,7 @@ chmod +x start.sh
 * replace html_file_path with actual path 
 
 ### 3. You can view the output by navigating to the providied path.
+You will see a project 
 
 ## Testing
 ### Execute the following command to execute Unit Test Cases
