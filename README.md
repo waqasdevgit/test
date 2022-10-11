@@ -11,7 +11,7 @@ rvm install ruby-2.6.5
 
 ### 2. Install the gems
 ```shell
-Run 'bundle' command in project directory
+bundle install
 ```
 ## Execution Instructions
 ### 1. Change access permission of start.sh file to exectuable
