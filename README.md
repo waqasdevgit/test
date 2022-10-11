@@ -10,7 +10,7 @@ rvm install ruby-2.6.5
 ```
 
 ### 2. Install the gems
-Move to project directory
+Move to project directory and execute
 ```shell
 bundle install
 ```
@@ -24,7 +24,7 @@ chmod +x start.sh
 ```shell
 ./start html_file_path
 ```
-*replace html_file_path with actual path 
+* replace html_file_path with actual path 
 
 ### 3. You can view the output by navigating to the providied path.
 
