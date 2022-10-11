@@ -10,6 +10,7 @@ rvm install ruby-2.6.5
 ```
 
 ### 2. Install the gems
+Move to project directory
 ```shell
 bundle install
 ```
